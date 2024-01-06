@@ -6,4 +6,4 @@
 
 + The system selects a random number.
 + Players take turns making guesses.
-+ The game ends when a player correctly guesses the chosen number.
++ The game ends when a player correctly guesses the chosen number. 
